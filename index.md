@@ -6,7 +6,7 @@ title: Mochammad Riyan Firmansyah's CV
 
 <div id="webaddress">
 <a href="mbah.okop@gmail.com">mbah.okop@gmail.com</a>
-| <a href="linkedin.com/in/riyanfirmansyah/">LinkedIn</a>
+| <a href="https://linkedin.com/in/riyanfirmansyah/">LinkedIn</a>
 </div>
 
 
